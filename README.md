@@ -6,12 +6,10 @@
 ![](https://img.shields.io/badge/%E2%9C%8C-Shell-green)
 ![](https://img.shields.io/badge/%E2%9C%8C-Linux-green)
 ![](https://img.shields.io/badge/%E2%9C%8C-Docker-green)  
-
 ![](https://img.shields.io/badge/%E2%9C%8D-AL-blue)
 ![](https://img.shields.io/badge/%E2%9C%8D-AutoML-blue)
 ![](https://img.shields.io/badge/%E2%9C%8D-RL-blue)
 ![](https://img.shields.io/badge/%E2%9C%8D-NLP-blue)  
-
 ![](https://img.shields.io/badge/%DB%A9-Android-lightgrey)
 ![](https://img.shields.io/badge/%DB%A9-Camera-lightgrey)
 ![](https://img.shields.io/badge/%DB%A9-Hardware-lightgrey)
